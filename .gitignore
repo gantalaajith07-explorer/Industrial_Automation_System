@@ -1,0 +1,9 @@
+runtime/
+__pycache__/
+*.o
+master_controller
+robot_controller
+conveyer_controller
+sensor_sim
+hmi_client
+logger
